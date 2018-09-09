@@ -1,0 +1,9 @@
+c:\users\kamran\documents\visual studio 2013\Projects\phone-book\phone-book\bin\Debug\phone-book.exe.config
+c:\users\kamran\documents\visual studio 2013\Projects\phone-book\phone-book\obj\Debug\phone-book.csprojResolveAssemblyReference.cache
+c:\users\kamran\documents\visual studio 2013\Projects\phone-book\phone-book\obj\Debug\phone_book.Form1.resources
+c:\users\kamran\documents\visual studio 2013\Projects\phone-book\phone-book\obj\Debug\phone_book.Properties.Resources.resources
+c:\users\kamran\documents\visual studio 2013\Projects\phone-book\phone-book\obj\Debug\phone-book.csproj.GenerateResource.Cache
+c:\users\kamran\documents\visual studio 2013\Projects\phone-book\phone-book\bin\Debug\phone-book.exe
+c:\users\kamran\documents\visual studio 2013\Projects\phone-book\phone-book\bin\Debug\phone-book.pdb
+c:\users\kamran\documents\visual studio 2013\Projects\phone-book\phone-book\obj\Debug\phone-book.exe
+c:\users\kamran\documents\visual studio 2013\Projects\phone-book\phone-book\obj\Debug\phone-book.pdb
